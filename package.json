@@ -1,0 +1,27 @@
+{
+  "name": "mimosa-d3-on-window",
+  "version": "0.1.0",
+  "homepage": "https://github.com/dbashford/mimosa-d3-on-window",
+  "author": "David Bashford",
+  "description": "A Mimosa module for modifying d3.js and attaching d3 to the window",
+  "contributors": [
+    {
+      "name": "David Bashford",
+      "email": "dbashford@hotmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dbashford/mimosa-d3-on-window"
+  },
+  "keywords": [
+    "mimosa",
+    "mmodule",
+    "d3"
+  ],
+  "license": "MIT",
+  "main": "./src",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
